@@ -1,0 +1,9 @@
+[submodule "ainimal-leash"]
+	path = ainimal-leash
+	url = https://github.com/Limboid/ainimal-leash
+[submodule "ainimal-zoo"]
+	path = ainimal-zoo
+	url = https://github.com/Limboid/ainimal-zoo
+[submodule "ainimal-zookeeper"]
+	path = ainimal-zookeeper
+	url = https://github.com/Limboid/ainimal-zookeeper
