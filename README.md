@@ -1,5 +1,9 @@
 # **AI**nimal Zoo / Zookeeper / Leash
 
+:construction: **This repository is under construction.** :construction: Stable release coming this Summer 2022.
+
+Want to contribute? Check out the GitHub container repository [Limboid/the-artificial-ecosystem](https://github.com/Limboid/the-artificial-ecosystem) for this project.
+
 I should make this repo public once the subrepo's are figured out. This README will help people understand how things fit together.
 
 As heterogeneous, distributed, and exoitc AI systems (**AI**nimals :tiger:) continue to pervade the real world, it is incrinsingly important to observe, care for, and stay in touch with them. **AI**nimal Zoo, Zookeeper, and Leash form an AI management ecosystem to facilitate observing, interacting with, and managing AI systems in the wild.
